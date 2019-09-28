@@ -1,26 +1,22 @@
+// in src/App.js
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Admin, Resource } from 'react-admin';
+import jsonServerProvider from 'ra-data-json-server';
+import PostIcon from '@material-ui/icons/Book';
+import UserIcon from '@material-ui/icons/Group';
+import authProvider from './authProvider';
+import Dashboard from './Dashboard';
+import { FacilityList, FacilityEdit } from './views/facilities';
+import { UserList, UserEdit, UserCreate } from './views/users';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+// const dataProvider = jsonServerProvider('https://my-json-server.typicode.com/linkvan/linkvan-admin');
+const dataProvider = jsonServerProvider('http://localhost:3000');
+
+const App = () => (
+  <Admin dashboard={Dashboard} authProvider={authProvider} dataProvider={dataProvider}>
+    <Resource name="users" list={UserList} edit={UserEdit} create={UserCreate} icon={UserIcon} />
+    <Resource name="facilities" list={FacilityList} edit={FacilityEdit} icon={PostIcon} />
+  </Admin>
+);
 
 export default App;

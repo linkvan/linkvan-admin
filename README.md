@@ -66,3 +66,19 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+---
+
+### References
+Test database generated with Faker.js
+https://github.com/marak/Faker.js/
+
+Running server to fake database
+```
+$ cd ./db
+$ json-server test.js
+```
+https://github.com/typicode/json-server
+
+Admin UI created with React-Admin
+https://marmelab.com/react-admin

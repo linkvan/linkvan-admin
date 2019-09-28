@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Admin",
+      "email": "admin@linkvan.ca",
+      "created_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "updated_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "admin": true,
+      "activation_email_sent": true,
+      "phone_number": "888-888-8888",
+      "verified": true
+    },
+    {
+      "id": 1,
+      "name": "Amber Bailey",
+      "email": "Shaylee.Bayer4@hotmail.com",
+      "created_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "updated_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "admin": false,
+      "activation_email_sent": false,
+      "phone_number": "(484) 840-5822",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "name": "Virginia Bartoletti",
+      "email": "Jenifer_Cruickshank38@hotmail.com",
+      "created_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "updated_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "admin": false,
+      "activation_email_sent": false,
+      "phone_number": "935.748.9516 x551",
+      "verified": false
+    },
+    {
+      "id": 3,
+      "name": "Anissa Ankunding",
+      "email": "Russell63@hotmail.com",
+      "created_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "updated_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "admin": false,
+      "activation_email_sent": false,
+      "phone_number": "587-195-7308 x02736",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "name": "Sydnee Graham",
+      "email": "Haskell55@gmail.com",
+      "created_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "updated_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "admin": false,
+      "activation_email_sent": true,
+      "phone_number": "(933) 971-2632",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "name": "Karen VonRueden",
+      "email": "Vicenta49@gmail.com",
+      "created_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "updated_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "admin": false,
+      "activation_email_sent": true,
+      "phone_number": "1-708-658-3498 x31858",
+      "verified": false
+    },
+    {
+      "id": 6,
+      "name": "Geovanny Rogahn",
+      "email": "Raquel.Pfeffer@hotmail.com",
+      "created_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "updated_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "admin": false,
+      "activation_email_sent": true,
+      "phone_number": "1-713-428-0839",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "name": "Sarina Welch",
+      "email": "Shad.Bosco@gmail.com",
+      "created_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "updated_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "admin": false,
+      "activation_email_sent": true,
+      "phone_number": "1-934-385-6052 x139",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "name": "Jordyn O'Conner",
+      "email": "Earl23@yahoo.com",
+      "created_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "updated_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "admin": false,
+      "activation_email_sent": false,
+      "phone_number": "385.320.3905 x3653",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "name": "Taylor O'Connell",
+      "email": "Ava61@gmail.com",
+      "created_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "updated_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "admin": false,
+      "activation_email_sent": true,
+      "phone_number": "018.487.4010 x79990",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "name": "Ms. Lisa Carter",
+      "email": "Mustafa66@hotmail.com",
+      "created_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "updated_at": "Sat Aug 10 2019 21:06:13 GMT-0700 (Pacific Daylight Time)",
+      "admin": false,
+      "activation_email_sent": true,
+      "phone_number": "1-214-354-3358 x6287",
+      "verified": true
+    },
+    {
+      "name": "abc",
+      "email": "abc",
+      "phone_number": "abc",
+      "verified": true,
+      "id": 11
+    }
+  ]
+}
