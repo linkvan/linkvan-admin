@@ -1,0 +1,81 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:import/errors",
+    "plugin:import/warnings",
+    "prettier"
+  ],
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "plugins": [
+    "react",
+    "react-hooks",
+    "unicorn",
+    "prettier"
+  ],
+  "rules": {
+    "import/no-unresolved": [2, { "ignore": [".png$"] }],
+    "import/default": "warn",
+    "lines-between-class-members": "warn",
+    "no-else-return": "error",
+    "no-nested-ternary": 1,
+    "no-restricted-globals": ["error", "event"],
+    "no-restricted-syntax": ["error", "WithStatement"],
+    "no-shadow": "warn",
+    "prefer-destructuring": ["warn", {
+      "object": true,
+      "array": false
+    }, {
+      "enforceForRenamedProperties": true
+    }],
+    "prettier/prettier": "error",
+    "react/default-props-match-prop-types": 1,
+    "react/destructuring-assignment": 1,
+    "react/forbid-prop-types": [2, { "forbid": ["any"] }],
+    "react/jsx-equals-spacing": 2,
+    "react/jsx-no-undef": [2, { "allowGlobals": true }],
+    "react/jsx-wrap-multilines": [1, {
+      "declaration": "parens-new-line",
+      "assignment": "parens-new-line",
+      "return": "parens-new-line",
+      "arrow": "parens-new-line",
+      "condition": "parens-new-line",
+      "logical": "ignore",
+      "prop": "ignore"
+    }],
+    "react/no-multi-comp": [1, { "ignoreStateless": true }],
+    "react/no-unused-prop-types": 1,
+    "react/prefer-es6-class": 1,
+    "react/require-default-props": 1,
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "error",
+    "unicorn/consistent-function-scoping": "warn",
+    "unicorn/expiring-todo-comments": "warn",
+    "unicorn/new-for-builtins": "warn",
+    "unicorn/prefer-add-event-listener": "warn",
+    "unicorn/prefer-exponentiation-operator": "warn",
+    "unicorn/prefer-flat-map": "warn",
+    "unicorn/prefer-includes": "warn",
+    "unicorn/prefer-string-slice": "warn",
+    "unicorn/regex-shorthand": "warn"
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
+}
