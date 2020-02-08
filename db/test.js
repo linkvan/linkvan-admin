@@ -1,9 +1,9 @@
 module.exports = function() {
-	var users = require('./users.json')
-	var facilities = require('./facilities.json')
+  var users = require('./users.json')
+  var facilities = require('./facilities.json')
 
-	return {
-		...users,
-		...facilities
-	}
+  return {
+    ...users,
+    ...facilities
+  }
 }

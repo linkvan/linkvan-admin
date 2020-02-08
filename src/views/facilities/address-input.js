@@ -1,13 +1,7 @@
 import PropTypes from 'prop-types'
 import React, { useState } from 'react'
-import { change } from 'redux-form'
-import {
-  FormDataConsumer,
-  TextInput,
-  LongTextInput,
-  Loading,
-  REDUX_FORM_NAME
-} from 'react-admin'
+import { useForm } from 'react-final-form'
+import { FormDataConsumer, TextInput, Loading } from 'react-admin'
 import axios from 'axios'
 import _ from 'lodash'
 import styled from 'styled-components'
@@ -80,30 +74,32 @@ const AddressInput = ({ record }) => {
   const [choices, setChoices] = useState([])
   const [loading, setLoading] = useState(false)
   const [center, setCenter] = useState(defaultCenter)
+  const form = useForm()
 
   const hideLoading = () => setLoading(false)
 
-  const getAddressGeo = (choice, dispatch, e) => {
+  const getAddressGeo = (choice, e) => {
     e.preventDefault()
 
     const setLatLng = coordinate => {
       setCenter(coordinate)
-      dispatch(change(REDUX_FORM_NAME, 'lat', coordinate.lat))
-      dispatch(change(REDUX_FORM_NAME, 'long', coordinate.lng))
+      form.change('lat', coordinate.lat)
+      form.change('long', coordinate.lng)
     }
 
     setChoices([])
     setLoading(true)
-    dispatch(change(REDUX_FORM_NAME, 'address', choice.address))
+    form.change('address', choice.address)
     getGeoAPI(choice.locationId, setLatLng, hideLoading)
   }
 
   return (
     <div>
       <FormDataConsumer>
-        {({ dispatch, ...rest }) => (
+        {({ ...rest }) => (
           <>
-            <LongTextInput
+            <TextInput
+              multiline
               source="address"
               onChange={data => {
                 if (!loading) {
@@ -125,7 +121,7 @@ const AddressInput = ({ record }) => {
 
             {_.map(choices, choice => (
               <p key={choice.locationId}>
-                <a href="" onClick={e => getAddressGeo(choice, dispatch, e)}>
+                <a href="" onClick={e => getAddressGeo(choice, e)}>
                   {choice.address}
                 </a>
               </p>
