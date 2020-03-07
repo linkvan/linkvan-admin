@@ -6,7 +6,7 @@ import jsonServerProvider from 'ra-data-json-server'
 import PostIcon from '@material-ui/icons/Book'
 import UserIcon from '@material-ui/icons/Group'
 import authProvider from './authProvider'
-import Dashboard from './Dashboard'
+import Dashboard from './views/dashboard'
 import { FacilityList, FacilityEdit } from './views/facilities'
 import { UserList, UserEdit, UserCreate } from './views/users'
 
