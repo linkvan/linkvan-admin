@@ -7,7 +7,7 @@ import PostIcon from '@material-ui/icons/Book'
 import UserIcon from '@material-ui/icons/Group'
 import authProvider from './authProvider'
 import Dashboard from './views/dashboard'
-import { FacilityList, FacilityEdit } from './views/facilities'
+import { FacilityList, FacilityEdit, FacilityCreate } from './views/facilities'
 import { UserList, UserEdit, UserCreate } from './views/users'
 
 const history = createHistory()
@@ -33,6 +33,7 @@ const App = () => (
       name="facilities"
       list={FacilityList}
       edit={FacilityEdit}
+      create={FacilityCreate}
       icon={PostIcon}
     />
   </Admin>

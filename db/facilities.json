@@ -15,60 +15,40 @@
 			"address": "93122 Sincere Forge, Dulceland, NM",
 			"website": "kayli.info",
 			"notes": "Sequi quos aut harum quis ipsam.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": true,
 			"r_id": false,
 			"r_cart": false,
 			"r_phone": true,
 			"r_wifi": false,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": false,
-			"open_all_day_tues": false,
-			"open_all_day_wed": false,
-			"open_all_day_thurs": true,
-			"open_all_day_fri": true,
-			"open_all_day_sat": false,
-			"open_all_day_sun": true,
-			"closed_all_day_mon": true,
-			"closed_all_day_tues": true,
-			"closed_all_day_wed": true,
-			"closed_all_day_thurs": false,
-			"closed_all_day_fri": true,
-			"closed_all_day_sat": true,
-			"closed_all_day_sun": true,
-			"second_time_mon": true,
-			"second_time_tues": true,
-			"second_time_wed": true,
-			"second_time_thurs": false,
-			"second_time_fri": true,
-			"second_time_sat": true,
-			"second_time_sun": false,
 			"shelter_note": "Sunt omnis expedita praesentium cum saepe. Sed qui in aliquid a et consectetur velit adipisci placeat. Eos dolores est est in ut rerum. Soluta sequi consequatur cum qui tempore quo fugit repellendus.",
 			"food_note": "Praesentium in aperiam ipsa tempore laboriosam. Ipsam corporis vel officiis odio accusantium. Quaerat dolorem ut voluptates ut aliquid similique illum vero.",
 			"medical_note": "Beatae reiciendis itaque illum eum.",
@@ -92,60 +72,40 @@
 			"address": "62812 Vern Track, Olgaville, IL",
 			"website": "bonnie.net",
 			"notes": "Enim eos sed velit commodi. Possimus voluptatibus vel nihil consequatur eius quas sed voluptatem tempora.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": false,
 			"r_id": false,
 			"r_cart": true,
 			"r_phone": true,
 			"r_wifi": false,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": false,
-			"open_all_day_tues": true,
-			"open_all_day_wed": false,
-			"open_all_day_thurs": true,
-			"open_all_day_fri": false,
-			"open_all_day_sat": false,
-			"open_all_day_sun": true,
-			"closed_all_day_mon": false,
-			"closed_all_day_tues": true,
-			"closed_all_day_wed": false,
-			"closed_all_day_thurs": false,
-			"closed_all_day_fri": false,
-			"closed_all_day_sat": true,
-			"closed_all_day_sun": false,
-			"second_time_mon": true,
-			"second_time_tues": true,
-			"second_time_wed": true,
-			"second_time_thurs": true,
-			"second_time_fri": true,
-			"second_time_sat": false,
-			"second_time_sun": false,
 			"shelter_note": "Odit error sit omnis corporis neque labore. Libero enim tempore facilis dolorum earum rem ea.",
 			"food_note": "Tenetur sequi accusantium repellendus aspernatur expedita maiores ab quibusdam. Et et eius dolore nostrum error in velit molestias dolores. Omnis sit iste fugit sit. Necessitatibus veritatis non qui necessitatibus voluptate et reprehenderit.",
 			"medical_note": "Ab sit commodi consequatur et eos quo neque voluptate maxime.",
@@ -169,60 +129,40 @@
 			"address": "009 Lenora Mill, Lake Clifford, AK",
 			"website": "earlene.org",
 			"notes": "Vitae vitae dolores ullam dolor labore. Eveniet rem facilis accusamus eos et eaque vel. Minus et eaque libero impedit voluptas sit itaque error.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": false,
 			"r_id": true,
 			"r_cart": true,
 			"r_phone": false,
 			"r_wifi": true,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": false,
-			"open_all_day_tues": false,
-			"open_all_day_wed": false,
-			"open_all_day_thurs": true,
-			"open_all_day_fri": false,
-			"open_all_day_sat": false,
-			"open_all_day_sun": false,
-			"closed_all_day_mon": false,
-			"closed_all_day_tues": true,
-			"closed_all_day_wed": false,
-			"closed_all_day_thurs": false,
-			"closed_all_day_fri": true,
-			"closed_all_day_sat": true,
-			"closed_all_day_sun": false,
-			"second_time_mon": true,
-			"second_time_tues": false,
-			"second_time_wed": true,
-			"second_time_thurs": false,
-			"second_time_fri": true,
-			"second_time_sat": false,
-			"second_time_sun": false,
 			"shelter_note": "Quia voluptatum est est nam. Rerum cupiditate iure ab architecto dolorem modi aut enim quaerat. Aut in rerum sequi. Iure facere assumenda beatae numquam non dolor laboriosam.",
 			"food_note": "Vel rerum dolor ab molestiae. Est non accusamus perspiciatis. Voluptatem et molestias error illum cum quis.",
 			"medical_note": "Quas sit iusto et.",
@@ -246,60 +186,40 @@
 			"address": "81368 Wyman Stream, Murphyport, NC",
 			"website": "rafaela.name",
 			"notes": "Culpa omnis quo qui non sit voluptatem eaque voluptatem.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": true,
 			"r_id": true,
 			"r_cart": true,
 			"r_phone": true,
 			"r_wifi": false,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": false,
-			"open_all_day_tues": true,
-			"open_all_day_wed": true,
-			"open_all_day_thurs": true,
-			"open_all_day_fri": true,
-			"open_all_day_sat": true,
-			"open_all_day_sun": true,
-			"closed_all_day_mon": false,
-			"closed_all_day_tues": true,
-			"closed_all_day_wed": false,
-			"closed_all_day_thurs": false,
-			"closed_all_day_fri": true,
-			"closed_all_day_sat": false,
-			"closed_all_day_sun": true,
-			"second_time_mon": false,
-			"second_time_tues": true,
-			"second_time_wed": true,
-			"second_time_thurs": false,
-			"second_time_fri": false,
-			"second_time_sat": false,
-			"second_time_sun": true,
 			"shelter_note": "Ut et modi non.",
 			"food_note": "Et aliquam eius vero ut autem qui quia nam repudiandae. Fugiat quis laborum dolorem voluptatum minus quo aut dolor. Aut ut similique ut ducimus quam et earum totam. Officiis quo hic et maxime.",
 			"medical_note": "Molestiae exercitationem sit eaque quisquam non dicta.",
@@ -323,60 +243,40 @@
 			"address": "0783 Kaylee Highway, Lake Ludwig, LA",
 			"website": "ramiro.name",
 			"notes": "Sunt voluptatibus similique eligendi omnis tempora molestiae ea velit doloribus. Qui harum laboriosam architecto et iure delectus eaque at nihil. Laboriosam quo ut molestias praesentium dolor modi qui. Id autem animi et distinctio ex nostrum.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": true,
 			"r_id": true,
 			"r_cart": false,
 			"r_phone": false,
 			"r_wifi": true,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": true,
-			"open_all_day_tues": true,
-			"open_all_day_wed": false,
-			"open_all_day_thurs": false,
-			"open_all_day_fri": false,
-			"open_all_day_sat": true,
-			"open_all_day_sun": true,
-			"closed_all_day_mon": true,
-			"closed_all_day_tues": true,
-			"closed_all_day_wed": true,
-			"closed_all_day_thurs": false,
-			"closed_all_day_fri": false,
-			"closed_all_day_sat": false,
-			"closed_all_day_sun": false,
-			"second_time_mon": false,
-			"second_time_tues": true,
-			"second_time_wed": true,
-			"second_time_thurs": false,
-			"second_time_fri": false,
-			"second_time_sat": true,
-			"second_time_sun": false,
 			"shelter_note": "Laborum provident et porro vel expedita.",
 			"food_note": "Amet excepturi pariatur temporibus consectetur doloremque qui quae placeat eaque. Optio earum quia aliquam et et aperiam. Doloribus a molestiae quae vel voluptas consequuntur.",
 			"medical_note": "Est eum ut et voluptas.",
@@ -400,60 +300,40 @@
 			"address": "27088 Borer Knolls, North Hardyshire, WY",
 			"website": "shana.org",
 			"notes": "Illo recusandae qui et. Id eligendi et magni quia et aut aliquam eaque ratione. Quidem aliquam esse a qui est sed est. Porro ex maiores exercitationem.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": false,
 			"r_id": true,
 			"r_cart": false,
 			"r_phone": true,
 			"r_wifi": false,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": true,
-			"open_all_day_tues": false,
-			"open_all_day_wed": false,
-			"open_all_day_thurs": true,
-			"open_all_day_fri": false,
-			"open_all_day_sat": false,
-			"open_all_day_sun": false,
-			"closed_all_day_mon": false,
-			"closed_all_day_tues": true,
-			"closed_all_day_wed": false,
-			"closed_all_day_thurs": false,
-			"closed_all_day_fri": false,
-			"closed_all_day_sat": false,
-			"closed_all_day_sun": true,
-			"second_time_mon": false,
-			"second_time_tues": false,
-			"second_time_wed": false,
-			"second_time_thurs": true,
-			"second_time_fri": true,
-			"second_time_sat": false,
-			"second_time_sun": false,
 			"shelter_note": "Magni nostrum quasi maxime molestiae quisquam.",
 			"food_note": "Ea porro officia labore illo quis. Amet rem dolores officia et quod et ea ut.",
 			"medical_note": "Neque tenetur deserunt. Culpa quisquam minima asperiores.",
@@ -477,60 +357,40 @@
 			"address": "92149 Judson Isle, North Shea, KY",
 			"website": "theodora.net",
 			"notes": "Quisquam non quibusdam occaecati dolor reiciendis. Eos ut quia ratione. Aliquid temporibus at est blanditiis et rem reprehenderit.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": false,
 			"r_id": false,
 			"r_cart": false,
 			"r_phone": false,
 			"r_wifi": false,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": true,
-			"open_all_day_tues": true,
-			"open_all_day_wed": false,
-			"open_all_day_thurs": true,
-			"open_all_day_fri": false,
-			"open_all_day_sat": true,
-			"open_all_day_sun": true,
-			"closed_all_day_mon": false,
-			"closed_all_day_tues": false,
-			"closed_all_day_wed": true,
-			"closed_all_day_thurs": true,
-			"closed_all_day_fri": true,
-			"closed_all_day_sat": true,
-			"closed_all_day_sun": true,
-			"second_time_mon": false,
-			"second_time_tues": false,
-			"second_time_wed": true,
-			"second_time_thurs": false,
-			"second_time_fri": true,
-			"second_time_sat": false,
-			"second_time_sun": false,
 			"shelter_note": "Quo laudantium saepe ut dolore nostrum ut aut dolorem.",
 			"food_note": "Consequatur voluptatem incidunt doloribus sequi sed eveniet ut quas commodi. Dolores aut dolor veniam sapiente. Itaque corporis itaque quae placeat.",
 			"medical_note": "Qui ab provident laudantium reiciendis. Dolorum illo cumque voluptas consequuntur nisi omnis dolor minima.",
@@ -554,60 +414,40 @@
 			"address": "329 Earl Road, Lake Ethan, TX",
 			"website": "edna.org",
 			"notes": "Incidunt tempora quia fuga. Pariatur quis est maiores odio maiores ea velit.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": false,
 			"r_id": true,
 			"r_cart": true,
 			"r_phone": false,
 			"r_wifi": true,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": false,
-			"open_all_day_tues": true,
-			"open_all_day_wed": false,
-			"open_all_day_thurs": true,
-			"open_all_day_fri": false,
-			"open_all_day_sat": false,
-			"open_all_day_sun": true,
-			"closed_all_day_mon": false,
-			"closed_all_day_tues": true,
-			"closed_all_day_wed": true,
-			"closed_all_day_thurs": true,
-			"closed_all_day_fri": false,
-			"closed_all_day_sat": false,
-			"closed_all_day_sun": true,
-			"second_time_mon": false,
-			"second_time_tues": true,
-			"second_time_wed": false,
-			"second_time_thurs": true,
-			"second_time_fri": false,
-			"second_time_sat": true,
-			"second_time_sun": false,
 			"shelter_note": "Doloribus nihil mollitia necessitatibus et totam natus.",
 			"food_note": "Quidem id voluptates est totam non delectus qui. Non quisquam rerum ducimus. Ea cupiditate id rerum qui et consequuntur occaecati asperiores. Occaecati earum veritatis.",
 			"medical_note": "Debitis et laborum maiores enim ut qui pariatur. Et dignissimos quam ex odit aut. Consequatur consequatur earum rerum ullam minus qui nostrum.",
@@ -631,60 +471,40 @@
 			"address": "2017 Gaylord Radial, Lake Kelvinbury, CT",
 			"website": "ellis.org",
 			"notes": "Dolorem asperiores vero. Et facere aut illum cum ratione itaque ullam eaque. Consequatur vero maxime ut. Voluptatum sequi et sit dicta ratione et perspiciatis.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": false,
 			"r_id": false,
 			"r_cart": false,
 			"r_phone": false,
 			"r_wifi": false,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": true,
-			"open_all_day_tues": true,
-			"open_all_day_wed": false,
-			"open_all_day_thurs": false,
-			"open_all_day_fri": false,
-			"open_all_day_sat": true,
-			"open_all_day_sun": false,
-			"closed_all_day_mon": true,
-			"closed_all_day_tues": false,
-			"closed_all_day_wed": false,
-			"closed_all_day_thurs": true,
-			"closed_all_day_fri": true,
-			"closed_all_day_sat": true,
-			"closed_all_day_sun": true,
-			"second_time_mon": false,
-			"second_time_tues": false,
-			"second_time_wed": false,
-			"second_time_thurs": true,
-			"second_time_fri": true,
-			"second_time_sat": true,
-			"second_time_sun": true,
 			"shelter_note": "Repellat dolorem numquam iusto. Voluptatibus sapiente sed nihil tempora. Quia aut voluptatem.",
 			"food_note": "Eaque sapiente vel magnam molestias. Fugit quia nostrum modi a maiores dolores. Nobis quo molestias eos et eligendi ut.",
 			"medical_note": "Porro nemo dolores et et sit sapiente. Pariatur quaerat tempora beatae voluptas aut omnis. Officiis eos illum quis.",
@@ -708,60 +528,40 @@
 			"address": "456 Kautzer Club, Davidland, LA",
 			"website": "ramona.biz",
 			"notes": "Fuga magni et et provident modi.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": true,
 			"r_id": true,
 			"r_cart": true,
 			"r_phone": false,
 			"r_wifi": true,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": false,
-			"open_all_day_tues": true,
-			"open_all_day_wed": false,
-			"open_all_day_thurs": false,
-			"open_all_day_fri": true,
-			"open_all_day_sat": false,
-			"open_all_day_sun": false,
-			"closed_all_day_mon": true,
-			"closed_all_day_tues": true,
-			"closed_all_day_wed": false,
-			"closed_all_day_thurs": false,
-			"closed_all_day_fri": true,
-			"closed_all_day_sat": false,
-			"closed_all_day_sun": false,
-			"second_time_mon": true,
-			"second_time_tues": true,
-			"second_time_wed": true,
-			"second_time_thurs": true,
-			"second_time_fri": true,
-			"second_time_sat": true,
-			"second_time_sun": true,
 			"shelter_note": "Qui qui sed commodi voluptates. Hic perferendis quia non corrupti illo accusantium et autem repellat.",
 			"food_note": "Exercitationem quod nulla in illum facilis.",
 			"medical_note": "Tenetur ipsum et et. Sint qui recusandae tempore totam id quidem. Voluptatum sapiente quibusdam eum autem rerum totam optio id.",
@@ -785,60 +585,40 @@
 			"address": "5081 Emily Summit, Osinskiville, NV",
 			"website": "mitchel.biz",
 			"notes": "A doloribus sunt omnis non aspernatur esse ad officiis. Sit odio aliquid. Vel odit quidem est animi sed. Magnam et ipsam corporis minima et magni.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": false,
 			"r_id": false,
 			"r_cart": false,
 			"r_phone": false,
 			"r_wifi": true,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": true,
-			"open_all_day_tues": false,
-			"open_all_day_wed": true,
-			"open_all_day_thurs": false,
-			"open_all_day_fri": true,
-			"open_all_day_sat": false,
-			"open_all_day_sun": false,
-			"closed_all_day_mon": false,
-			"closed_all_day_tues": false,
-			"closed_all_day_wed": true,
-			"closed_all_day_thurs": false,
-			"closed_all_day_fri": false,
-			"closed_all_day_sat": false,
-			"closed_all_day_sun": true,
-			"second_time_mon": true,
-			"second_time_tues": false,
-			"second_time_wed": false,
-			"second_time_thurs": true,
-			"second_time_fri": true,
-			"second_time_sat": true,
-			"second_time_sun": true,
 			"shelter_note": "Qui hic temporibus ducimus. Unde mollitia eveniet et illum corrupti reprehenderit nostrum totam. Architecto consequatur est quidem dicta ipsum excepturi aliquam. Nostrum magnam asperiores omnis minus sit a dolore.",
 			"food_note": "Commodi illo est aut.",
 			"medical_note": "Laudantium maxime numquam. Non modi voluptatem earum dolore id tempora dolorem voluptatem. Qui et sunt aut magni ut ut quam eius.",
@@ -862,60 +642,40 @@
 			"address": "4981 Matilde Courts, O'Kontown, VA",
 			"website": "marvin.org",
 			"notes": "Molestias doloremque minus sed debitis labore et. Aspernatur magni commodi velit. Qui rerum debitis.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": true,
 			"r_id": false,
 			"r_cart": false,
 			"r_phone": true,
 			"r_wifi": false,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": true,
-			"open_all_day_tues": false,
-			"open_all_day_wed": true,
-			"open_all_day_thurs": false,
-			"open_all_day_fri": true,
-			"open_all_day_sat": false,
-			"open_all_day_sun": false,
-			"closed_all_day_mon": false,
-			"closed_all_day_tues": false,
-			"closed_all_day_wed": false,
-			"closed_all_day_thurs": false,
-			"closed_all_day_fri": true,
-			"closed_all_day_sat": false,
-			"closed_all_day_sun": true,
-			"second_time_mon": true,
-			"second_time_tues": true,
-			"second_time_wed": true,
-			"second_time_thurs": false,
-			"second_time_fri": true,
-			"second_time_sat": true,
-			"second_time_sun": true,
 			"shelter_note": "Sapiente et quaerat at et modi aut similique optio qui. Qui aliquid ut.",
 			"food_note": "Modi impedit inventore ex eum. Qui voluptate maxime veniam corrupti commodi.",
 			"medical_note": "Officiis itaque reiciendis assumenda ut ab. Doloribus vel rem totam repellendus ut temporibus. Placeat nihil porro aspernatur aperiam autem. Et dignissimos odit officiis optio ad consequatur.",
@@ -939,60 +699,40 @@
 			"address": "60332 Dorothea Trail, Harveyburgh, SD",
 			"website": "fredy.net",
 			"notes": "Debitis qui provident.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": true,
 			"r_id": false,
 			"r_cart": false,
 			"r_phone": false,
 			"r_wifi": true,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": false,
-			"open_all_day_tues": false,
-			"open_all_day_wed": false,
-			"open_all_day_thurs": false,
-			"open_all_day_fri": false,
-			"open_all_day_sat": false,
-			"open_all_day_sun": false,
-			"closed_all_day_mon": false,
-			"closed_all_day_tues": true,
-			"closed_all_day_wed": false,
-			"closed_all_day_thurs": false,
-			"closed_all_day_fri": true,
-			"closed_all_day_sat": true,
-			"closed_all_day_sun": true,
-			"second_time_mon": true,
-			"second_time_tues": true,
-			"second_time_wed": false,
-			"second_time_thurs": false,
-			"second_time_fri": false,
-			"second_time_sat": true,
-			"second_time_sun": false,
 			"shelter_note": "Consequatur earum odio dolorum non nulla odit. Delectus amet earum tempore. Voluptate hic laudantium sint earum. Quis perspiciatis et nisi omnis natus voluptatibus et.",
 			"food_note": "Nesciunt consequatur est aliquam sunt veritatis. Rem quos minus qui ut nobis. Possimus quaerat in ullam laboriosam ut qui amet et nulla.",
 			"medical_note": "Voluptas voluptatem optio vitae. Et eum et omnis corrupti vel ullam aliquid.",
@@ -1016,60 +756,40 @@
 			"address": "435 Emmerich Heights, Cydneychester, KS",
 			"website": "annie.org",
 			"notes": "Recusandae officiis qui odio nam molestiae accusantium. Rerum velit perferendis minima error vel est.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": true,
 			"r_id": false,
 			"r_cart": false,
 			"r_phone": false,
 			"r_wifi": true,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": true,
-			"open_all_day_tues": true,
-			"open_all_day_wed": true,
-			"open_all_day_thurs": true,
-			"open_all_day_fri": false,
-			"open_all_day_sat": true,
-			"open_all_day_sun": true,
-			"closed_all_day_mon": false,
-			"closed_all_day_tues": false,
-			"closed_all_day_wed": false,
-			"closed_all_day_thurs": true,
-			"closed_all_day_fri": true,
-			"closed_all_day_sat": true,
-			"closed_all_day_sun": true,
-			"second_time_mon": false,
-			"second_time_tues": true,
-			"second_time_wed": false,
-			"second_time_thurs": false,
-			"second_time_fri": true,
-			"second_time_sat": false,
-			"second_time_sun": true,
 			"shelter_note": "Dolor beatae dolorem autem eligendi quo quis eos recusandae. Et atque laudantium qui quasi fugiat reprehenderit maxime sapiente minima. Minima minima autem minima consequatur harum vel quos sed temporibus.",
 			"food_note": "Dolor assumenda consequatur tempora laboriosam voluptas nesciunt. Et iusto est mollitia odit beatae. Laudantium rerum veritatis voluptatem. Sunt voluptate qui odio beatae commodi ex eos et.",
 			"medical_note": "Amet quas a enim nobis quis ex aliquam. Commodi nesciunt aut sapiente. Eos quam mollitia dolor.",
@@ -1093,60 +813,40 @@
 			"address": "20455 Teagan Lodge, North Eldora, KS",
 			"website": "wilburn.org",
 			"notes": "Molestias quos ex excepturi sint iusto fugit aut doloremque. Velit ipsa error sed beatae aut odit. Vitae iste in fugiat repellendus et non. Aspernatur dicta vero autem perferendis ut maiores.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": false,
 			"r_id": false,
 			"r_cart": true,
 			"r_phone": true,
 			"r_wifi": false,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": true,
-			"open_all_day_tues": false,
-			"open_all_day_wed": false,
-			"open_all_day_thurs": true,
-			"open_all_day_fri": true,
-			"open_all_day_sat": false,
-			"open_all_day_sun": false,
-			"closed_all_day_mon": false,
-			"closed_all_day_tues": false,
-			"closed_all_day_wed": false,
-			"closed_all_day_thurs": false,
-			"closed_all_day_fri": true,
-			"closed_all_day_sat": false,
-			"closed_all_day_sun": true,
-			"second_time_mon": true,
-			"second_time_tues": false,
-			"second_time_wed": false,
-			"second_time_thurs": true,
-			"second_time_fri": true,
-			"second_time_sat": true,
-			"second_time_sun": true,
 			"shelter_note": "Consectetur qui architecto maxime dolorum ducimus iste. Ab laboriosam voluptatem soluta ipsam.",
 			"food_note": "Tempore praesentium amet. Dolores repudiandae occaecati. Deserunt molestias excepturi unde dolor repellat ullam ut fugiat inventore.",
 			"medical_note": "Ab est ut iusto aut.",
@@ -1170,60 +870,40 @@
 			"address": "08633 Noble Turnpike, Cruickshankport, RI",
 			"website": "carey.com",
 			"notes": "Voluptatem quam eum dicta inventore officiis. Voluptatem omnis quo voluptate. Architecto nihil aut quis ab laborum excepturi consequatur. Aspernatur aut quasi molestias iusto sint ducimus ut non.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": true,
 			"r_id": true,
 			"r_cart": false,
 			"r_phone": false,
 			"r_wifi": false,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": false,
-			"open_all_day_tues": true,
-			"open_all_day_wed": true,
-			"open_all_day_thurs": false,
-			"open_all_day_fri": false,
-			"open_all_day_sat": false,
-			"open_all_day_sun": true,
-			"closed_all_day_mon": false,
-			"closed_all_day_tues": false,
-			"closed_all_day_wed": false,
-			"closed_all_day_thurs": false,
-			"closed_all_day_fri": true,
-			"closed_all_day_sat": false,
-			"closed_all_day_sun": false,
-			"second_time_mon": false,
-			"second_time_tues": true,
-			"second_time_wed": false,
-			"second_time_thurs": false,
-			"second_time_fri": true,
-			"second_time_sat": true,
-			"second_time_sun": false,
 			"shelter_note": "Quia minima soluta sint impedit architecto quaerat molestias quis.",
 			"food_note": "Nihil id autem qui. Nam error facere quas voluptatum accusantium libero sapiente rerum voluptas.",
 			"medical_note": "Et ad repudiandae rerum et assumenda et. Minima unde dolor. Expedita illo ratione adipisci error optio.",
@@ -1247,60 +927,40 @@
 			"address": "8626 Tyra Streets, Larkinchester, DE",
 			"website": "violet.info",
 			"notes": "Cum exercitationem inventore soluta totam fugit quam et.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": false,
 			"r_id": true,
 			"r_cart": true,
 			"r_phone": false,
 			"r_wifi": true,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": true,
-			"open_all_day_tues": true,
-			"open_all_day_wed": true,
-			"open_all_day_thurs": false,
-			"open_all_day_fri": true,
-			"open_all_day_sat": true,
-			"open_all_day_sun": true,
-			"closed_all_day_mon": false,
-			"closed_all_day_tues": true,
-			"closed_all_day_wed": false,
-			"closed_all_day_thurs": true,
-			"closed_all_day_fri": false,
-			"closed_all_day_sat": true,
-			"closed_all_day_sun": false,
-			"second_time_mon": false,
-			"second_time_tues": true,
-			"second_time_wed": false,
-			"second_time_thurs": false,
-			"second_time_fri": false,
-			"second_time_sat": false,
-			"second_time_sun": false,
 			"shelter_note": "Nostrum enim nihil non asperiores dolorem dolorem et mollitia.",
 			"food_note": "Odio numquam repellat optio ipsum et deserunt rerum quia. Voluptatum consequuntur voluptatum. Sed ut facilis vel.",
 			"medical_note": "Eos aspernatur voluptatem. Quaerat repudiandae est ab voluptatem.",
@@ -1324,60 +984,40 @@
 			"address": "8024 Kuhlman Knolls, Hilarioland, FL",
 			"website": "creola.info",
 			"notes": "Suscipit eligendi rem dolores. Quae sunt explicabo odio praesentium. Illo est cum incidunt quidem.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": false,
 			"r_id": false,
 			"r_cart": true,
 			"r_phone": true,
 			"r_wifi": true,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": true,
-			"open_all_day_tues": false,
-			"open_all_day_wed": true,
-			"open_all_day_thurs": true,
-			"open_all_day_fri": false,
-			"open_all_day_sat": true,
-			"open_all_day_sun": true,
-			"closed_all_day_mon": false,
-			"closed_all_day_tues": true,
-			"closed_all_day_wed": true,
-			"closed_all_day_thurs": false,
-			"closed_all_day_fri": false,
-			"closed_all_day_sat": true,
-			"closed_all_day_sun": true,
-			"second_time_mon": true,
-			"second_time_tues": true,
-			"second_time_wed": false,
-			"second_time_thurs": false,
-			"second_time_fri": false,
-			"second_time_sat": false,
-			"second_time_sun": false,
 			"shelter_note": "Laboriosam omnis iste neque ex. Non numquam molestiae et. Dolore non quidem vel et.",
 			"food_note": "Atque sed sunt. Eum quaerat labore explicabo aut. Corporis quia dolores quod id deserunt quo et. Facere delectus nobis illum quia voluptates excepturi tempora possimus.",
 			"medical_note": "Nobis cupiditate quia cum rerum asperiores.",
@@ -1401,60 +1041,40 @@
 			"address": "09348 Johns Walks, Fridaville, IL",
 			"website": "veda.info",
 			"notes": "Porro deleniti doloremque autem nisi deserunt sint ipsum itaque. Illo laborum accusantium quis reiciendis sunt repudiandae quidem sed sed. Eum pariatur illum facere deleniti tempora sit.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": false,
 			"r_id": true,
 			"r_cart": true,
 			"r_phone": false,
 			"r_wifi": false,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": true,
-			"open_all_day_tues": false,
-			"open_all_day_wed": true,
-			"open_all_day_thurs": true,
-			"open_all_day_fri": false,
-			"open_all_day_sat": true,
-			"open_all_day_sun": false,
-			"closed_all_day_mon": false,
-			"closed_all_day_tues": false,
-			"closed_all_day_wed": false,
-			"closed_all_day_thurs": true,
-			"closed_all_day_fri": true,
-			"closed_all_day_sat": true,
-			"closed_all_day_sun": true,
-			"second_time_mon": true,
-			"second_time_tues": false,
-			"second_time_wed": false,
-			"second_time_thurs": true,
-			"second_time_fri": false,
-			"second_time_sat": true,
-			"second_time_sun": true,
 			"shelter_note": "Qui explicabo illo ipsam sunt quia numquam atque ducimus. Nulla debitis reiciendis qui. Consequatur eligendi quae sed commodi sed vel. Esse sint eum odio omnis.",
 			"food_note": "Voluptas est sit officiis excepturi quaerat qui nihil. Et veniam optio rerum quae culpa quibusdam optio. Ad qui quod aut. Nobis eveniet expedita sequi eaque blanditiis dolor hic.",
 			"medical_note": "Eum minus sed labore voluptates incidunt. Officia vel dolorem. Eos nulla optio. Cumque suscipit culpa dolorem vitae quia.",
@@ -1478,60 +1098,40 @@
 			"address": "1132 Howie Ave, Coquitlam, BC",
 			"website": "alvah.net",
 			"notes": "Sit consequatur corrupti adipisci qui sint dolorum cupiditate repellendus fugiat. Voluptates exercitationem facilis animi aliquam mollitia hic hic enim.",
-			"startsmon_at": "09:00:00",
-			"endsmon_at": "18:00:00",
-			"startstues_at": "09:00:00",
-			"endstues_at": "18:00:00",
-			"startswed_at": "09:00:00",
-			"endswed_at": "18:00:00",
-			"startsthurs_at": "09:00:00",
-			"endsthurs_at": "18:00:00",
-			"startsfri_at": "09:00:00",
-			"endsfri_at": "18:00:00",
-			"startssat_at": "09:00:00",
-			"endssat_at": "18:00:00",
-			"startssun_at": "09:00:00",
-			"endssun_at": "18:00:00",
+			"schedule_monday": {
+				"availability": "set_time",
+				"time": [
+					{
+						"from_hour": "09",
+						"from_min": "30",
+						"to_hour": "17",
+						"to_min": "30"
+					}
+				]
+			},
+			"schedule_tuesday": {
+				"availability": "open"
+			},
+			"schedule_wednesday": {
+				"availability": "closed"
+			},
+			"schedule_thursday": {
+				"availability": "open"
+			},
+			"schedule_friday": {
+				"availability": "open"
+			},
+			"schedule_saturday": {
+				"availability": "open"
+			},
+			"schedule_sunday": {
+				"availability": "open"
+			},
 			"r_pets": false,
 			"r_id": true,
 			"r_cart": false,
 			"r_phone": true,
 			"r_wifi": true,
-			"startsmon_at2": "09:00:00",
-			"endsmon_at2": "18:00:00",
-			"startstues_at2": "09:00:00",
-			"endstues_at2": "18:00:00",
-			"startswed_at2": "09:00:00",
-			"endswed_at2": "18:00:00",
-			"startsthurs_at2": "09:00:00",
-			"endsthurs_at2": "18:00:00",
-			"startsfri_at2": "09:00:00",
-			"endsfri_at2": "18:00:00",
-			"startssat_at2": "09:00:00",
-			"endssat_at2": "18:00:00",
-			"startssun_at2": "09:00:00",
-			"endssun_at2": "18:00:00",
-			"open_all_day_mon": false,
-			"open_all_day_tues": true,
-			"open_all_day_wed": true,
-			"open_all_day_thurs": true,
-			"open_all_day_fri": true,
-			"open_all_day_sat": true,
-			"open_all_day_sun": false,
-			"closed_all_day_mon": true,
-			"closed_all_day_tues": true,
-			"closed_all_day_wed": true,
-			"closed_all_day_thurs": true,
-			"closed_all_day_fri": false,
-			"closed_all_day_sat": false,
-			"closed_all_day_sun": false,
-			"second_time_mon": false,
-			"second_time_tues": false,
-			"second_time_wed": false,
-			"second_time_thurs": false,
-			"second_time_fri": false,
-			"second_time_sat": true,
-			"second_time_sun": false,
 			"shelter_note": "Qui est amet quam. Ea eveniet in dicta. Ut dolores corrupti tempora vitae pariatur cupiditate. Sint ad et molestias iure maxime neque.",
 			"food_note": "Qui corrupti amet quo sapiente a maxime est. Fugit praesentium cumque mollitia doloremque quibusdam assumenda molestias magni. Ipsam eligendi ex vel qui.",
 			"medical_note": "Consequatur necessitatibus et itaque distinctio tenetur repellendus ut alias illo. Deleniti et autem dolore.",
